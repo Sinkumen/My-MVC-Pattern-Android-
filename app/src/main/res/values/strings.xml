@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Discover Ethiopia</string>
+    <string name="attractions">Attractions</string>
+    <string name="agents">Agents</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="axum_info">
+        <b><u>Elevation:</u></b>\t   2,131 m \n<b><u>Weather:</u></b>\t   27°C, Wind SE at 10 km/h, 21% Humidity \n<b><u>Inscription:</u></b>\t   1980 (4th Session) \n<b><u>Number of airports:</u></b>\t   1\n<b><u>Did you know:</u></b>\tAxum is the eighth-oldest continuously inhabited city in northern Africa (continuously inhabited since c. 400 BC).
+</string>
+    <string name="Addis_Ababa_info">
+        <b><u>Elevation:</u></b> 2,355 m\n<b><u>Area:</u></b> 527 km²\n<b><u>Weather:</u></b> 18°C, Wind E at 14 km/h, 51% Humidity\n<b><u>Population: </u></b>3.385 million (2008)
+    </string>
+    <string name="Erta_Ale_info">
+        <b><u>Region:</u></b> Afar Region\n<b><u>Weather:</u></b> 38°C, Wind E at 11 km/h, 22% Humidity\n<b><u>Last eruption:</u></b> 2009\n<b><u>Elevation:</u></b> 613 m\n<b><u>Parent range:</u></b> Erta Ale Range\n<b><u>Mountain range:</u></b> Afar Triangle, Erta Ale Range\n
+    </string>
+    <string name="Lalibela_info">
+        <b><u>Address:</u></b> Lalibela<b><u>Architectural type:</u></b> Church architecture<b><u>Denomination:</u></b> Ethiopian Orthodox Tewahedo Church<b><u>Region:</u></b> Amhara Region<b><u>Zone:</u></b> Semien Wollo Zone<b><u>Weather:</u></b> 22°C, Wind E at 16 km/h, 35% Humidity<b><u>Population:</u></b> 17,367 (2007)
+    </string>
+    <string name="Fasilede_info">
+        <b><u>Address:</u></b> Gondar<b><u>Location: </u></b> Wegedi, Ethiopia<b><u>Elevation: </u></b> 2,133 m<b><u>Weather: 24°C,</u></b>  Wind NW at 13 km/h, 35% Humidity
+    </string>
+    <string name="sof_omer_info">
+        <b><u>Length:</u></b> 15,100 m<b><u>Location:</u></b> Bale Province, Ethiopia<b><u>Weather:</u></b> Precipitation: 44% Humidity: 78% Wind: 5 km/h
+    </string>
+    <string name="harar_info">
+        <b><u>Region:</u></b> oromia<b><u>Elevation:</u></b> 1,885 m<b><u>Weather:</u></b> 22°C, Wind N at 6 km/h, 59% Humidity<b><u>Population:</u></b> 151,977 (2012)
+    </string>
+    <string name="tana_info">
+        <b><u>Maximum Depth :</u></b> 15 meters<b><u>Elevation :</u></b> 1,788 meters<b><u>Length:</u></b> 84 km<b><u>Width:</u></b> 66km<b><u>Location:</u></b> north-western Ethiopian Highlands, Amhara Region
+    </string>
+    <string name="Debre_damo_info">
+        <b><u>Elevation:</u></b> 2216 m<b><u>Location:</u></b> North-west of Adigrat,Tigray<b><u>Weather:</u></b> 19°C, Wind E at 13 km/h, 47% Humidity
+    </string>
+    <string name="Mekelle">
+        <b><u>Elevation:</u></b> 2,084 m<b><u>Area:</u></b> 24.44 km²<b><u>Weather:</u></b> 22°C, Wind E at 18 km/h, 42% Humidity
+    </string>
+    <string name="title_activity_attraction_desc_basic">AttractionDescActivityBasic</string>
+
+
+
+    <string name="yama_info">
+        <b><u>Address:</u></b> Haile Gebre Silase St, Addis Ababa\n<b><u>Hours:</u></b> Opens 8AM
+</string>
+</resources>

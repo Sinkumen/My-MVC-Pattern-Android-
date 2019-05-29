@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.cnkua.discoverethiopia.AttractionDescActivityBasic"
+    tools:showIn="@layout/activity_attraction_desc_basic">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/Default"
+        android:id="@+id/attraction_thumbnail"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/attraction_name"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Attraction Name"
+        android:textSize="30sp"
+        android:textColor="@color/Default"/>
+
+    <TextView
+        android:id="@+id/quote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Quote"
+        android:textSize="20sp"
+        android:textColor="@color/Default"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="--------------------"
+        android:textColor="@color/Default"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:padding="25dp"
+        android:text="Description"
+        android:textSize="24sp"
+        android:typeface="sans" />
+
+    <TextView
+        android:id="@+id/inform"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-smallcaps"
+        android:padding="25dp"
+        android:text="Info"
+        android:textColor="@color/Default"
+
+        android:textSize="18sp" /></LinearLayout></android.support.v4.widget.NestedScrollView>
+
+</android.support.constraint.ConstraintLayout>
